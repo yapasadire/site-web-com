@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: https://yapasadire.com/sitemap.xml
+Disallow: /ghost/
+Disallow: /p/
